@@ -1,0 +1,28 @@
+{
+    "stream_name":"Eduvid",
+    "created_by": "Buckthorn Dev",
+    "videos": [
+        {
+            "id": 0,
+            "title":"[NodeJS] - Basic REST api part 1",
+            "description":"What is nodejs ?\nNode.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.\nWhat is Express ?\nExpress.js, or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.",
+            "time":"34:07",
+            "video":"https://firebasestorage.googleapis.com/v0/b/eduvid-a.appspot.com/o/tutorials%2FVwlQWPPkmv.mp4?alt=media&token=980a5b24-d6a7-414f-a958-7d128c6639ab",
+            "thumbnail":"https://firebasestorage.googleapis.com/v0/b/eduvid-a.appspot.com/o/images%2Fedu%20vid.png?alt=media&token=abc97475-65ab-4382-b407-c40b47231692"
+        },{
+            "id": 1,
+            "title":"[NodeJS] - Basic REST api part 2",
+            "description":"What is nodejs ?\nNode.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.\nWhat is Express ?\nExpress.js, or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.",
+            "time":"07:39",
+            "video":"https://firebasestorage.googleapis.com/v0/b/eduvid-a.appspot.com/o/tutorials%2FxMaevZIqEP.mp4?alt=media&token=112cadfa-7320-40c7-bce3-0d3237ba5097",
+            "thumbnail":"https://firebasestorage.googleapis.com/v0/b/eduvid-a.appspot.com/o/images%2Fedu%20vid.png?alt=media&token=abc97475-65ab-4382-b407-c40b47231692"
+        },{
+            "id": 2,
+            "title":"[NodeJS] - Basic REST api part 3",
+            "description":"What is nodejs ?\nNode.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.\nWhat is Express ?\nExpress.js, or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.",
+            "time":"30:01",
+            "video":"https://firebasestorage.googleapis.com/v0/b/eduvid-a.appspot.com/o/tutorials%2Fb2b7Hjrfun.mp4?alt=media&token=c9acea14-23b0-4a89-9a20-51f7f5871403",
+            "thumbnail":"https://firebasestorage.googleapis.com/v0/b/eduvid-a.appspot.com/o/images%2Fedu%20vid.png?alt=media&token=abc97475-65ab-4382-b407-c40b47231692"
+        }
+    ]
+}
